@@ -155,13 +155,16 @@ section {
 }
 .trainers {
   text-align: center;
+}
+.trainer {
+  text-align: center;
   width: 900px;
   margin: 0 auto 30px auto;
   background: #024e76;
   color: #fce138;
   overflow: auto;
 }
-.trainers img {
+.trainer img {
   width: 35%;
   float: left;
 }
